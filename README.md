@@ -1,1 +1,9 @@
-# ETL-Pipeline-from-Azure-SQL-to-ADLS-using-Azure-Databricks-
+## ETL-Pipeline-from-Azure-SQL-to-ADLS-using-Azure-Databricks
+
+This projects walks you through an ETL pipeline which copy data from Azure SQL database to Azure data lake storage gen2 using Azure Databricks. Azure Databricks handles all the transformation and cleaning process and finally loads the processed data to the destination data store.
+
+### This project involves creating three reources:
+- Azure Databricks.
+- Azure data lake storage gen2.
+- Azure SQL database.
+
